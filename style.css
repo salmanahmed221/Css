@@ -1,0 +1,221 @@
+/* External Css */
+
+/* h1 {
+  color: red;
+} */
+
+/* Css Id    Id is used for unique element and uses # */
+
+/* #myid {
+  color: darkred;
+} */
+
+/* Css Class   class is used for specific element and uses . */
+
+/* .myclass {
+  color: pink;
+} */
+
+/* .backgroundImg {
+  width: 100%;
+  height: 100%;
+  background-color: blue;
+  /* background-image: url("./Image/download.jpg"); */
+/* background-repeat: no-repeat; */
+/* background-repeat: repeat-x; horizontal repeat */
+/* background-repeat: repeat-y;  vertical repeat
+  background-size: 100%;
+}  */
+
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/* #fontcss {
+  font-variant: small-caps;
+  font-size: xx-large;
+  font-style: unset;
+  font-weight: bolder;
+} */
+
+/* #textcss {
+  color: red;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  direction: ltr;
+  text-indent: 10px;
+  text-align: center;
+  text-transform: lowercase;
+} */
+
+/* .bordercss {
+  width: 500px;
+  height: 300px;
+  background-color: red;
+  border-width: 8px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 100px;
+} */
+
+/* .unorderlistcss {
+  list-style-type: square;
+} */
+
+/* .orderlistcss {
+  list-style-type: lower-alpha;
+} */
+
+/* .boxmodel {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+} */
+
+/* input {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px; 
+   padding: 20px;
+  margin: 10;
+} */
+
+/* .scrollbaroverflow {
+  width: 200px;
+  height: 100px;
+  border: 1px red solid;
+  overflow: hidden;
+  overflow: auto;
+  overflow: scroll;
+} */
+
+/* .Father {
+  width: 600px;
+  height: 300px;
+  background-color: red;
+  position: relative;
+}
+
+.c1 {
+  width: 100px;
+  height: 60px;
+  background-color: green;
+  position: absolute;
+  left: 0;
+}
+
+.c2 {
+  width: 100px;
+  height: 60px;
+  background-color: yellow;
+  position: absolute;
+  right: 0;
+}
+
+.c3 {
+  width: 100px;
+  height: 60px;
+  background-color: orange;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.c4 {
+  width: 100px;
+  height: 60px;
+  background-color: purple;
+  position: absolute;
+  bottom: 0;
+} */
+
+/* .Z-index {
+  width: 600px;
+  height: 300px;
+  background-color: red;
+  position: relative;
+}
+
+.c1 {
+  width: 100px;
+  height: 60px;
+  background-color: green;
+  position: absolute;
+  z-index: 1;
+}
+
+.c2 {
+  width: 100px;
+  height: 60px;
+  background-color: yellow;
+  position: absolute;
+}
+
+.c3 {
+  width: 100px;
+  height: 60px;
+  background-color: orange;
+  position: absolute;
+}
+
+.c4 {
+  width: 100px;
+  height: 60px;
+  background-color: purple;
+  position: absolute;
+} */
+
+/* .header {
+  width: 100%;
+  height: 80px;
+  background-color: black;
+}
+
+.Logo {
+  width: 30%;
+  line-height: 80px;
+  text-align: center;
+  background-color: Orange;
+  float: left;
+}
+
+.menu {
+  width: 70%;
+  line-height: 80px;
+  background-color: red;
+  float: right;
+} */
+
+/* .header {
+  width: 100%;
+  height: 80px;
+  background-color: black;
+}
+
+.Logo {
+  width: 30%;
+  line-height: 80px;
+  text-align: center;
+  background-color: Orange;
+  float: left;
+}
+
+.menu {
+  width: 70%;
+  line-height: 80px;
+  background-color: red;
+  float: right;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  margin: 100px;
+  padding: 0 10px;
+  border: 1px solid black;
+} */
